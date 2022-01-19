@@ -32,6 +32,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<p align="center" width="100%">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLupa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLupa&repo=github-readme-stats" />
+</a>
