@@ -1,7 +1,7 @@
 # Hi there, I´m Martín | Front-end Developer with React | Bicycle enthusiast! 👋
 
 - 🔭 I’m currently working on a full-stack e-commerce project with MERN stack.
-- 🌱 I’m currently learning more React, and PHP.
+- 🌱 I’m currently learning more React, and NextJS.
 - 😄 Pronouns: He/Him.
 
 ## Connect with me:
