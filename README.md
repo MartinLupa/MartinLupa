@@ -1,4 +1,4 @@
-# Hi there, I´m Martín | Full-Stack Developer with a flair for Backend | Bicycle enthusiast! 👋
+# Hi there, I´m Martín | Full-Stack Developer | Bicycle enthusiast! 👋
 
 - 🔭 I’m currently working on a full-stack e-commerce project with MERN stack.
 - 🌱 I’m currently studying NodeJS and Go.
