@@ -1,74 +1,213 @@
-# Full-Stack Developer | Bicycle enthusiast! 👋
+ <!-- Profile Views -->
+<div>
+  <a align="left" href="https://www.linkedin.com/in/martin-lupa/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Martin Lupa LinkedIn" />
+  </a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=MartinLupa&label=Profile%20views&color=0e75b6&style=flat" alt="Martin Lupa Profile Views" />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLupa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Header -->
+<div align="center">
+  <h1>Hi 👋, I'm Martin Lupa</h1>
+  <h3>A passionate full-stack developer and bicycle enthusiast 🚴</h3>
+</div>
 
-## Connect with me:
+<div align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MartinLupa&theme=tokyonight&row=2&rank=SECRET,S,SS,A,B,C" alt="Martin Lupa GitHub Trophies" />
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-martinlupa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-lupa/)](https://www.linkedin.com/in/martin-lupa/)
+---
 
-## ⚡ Technologies
+<!-- Languages & Tools -->
 
-### Front-end
+### 🛠️ Languages & Tools
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=emotion)
-![Stitches](https://img.shields.io/badge/Stitches-2E2E2E?style=flat-square&logo=stitches)
+<table>
+  <tbody align="center">
+    <tr>
+    <td width="96">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+        </a>
+        <br/>
+        TypeScript
+      </td>
+      <td width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        </a>
+        <br/>
+        JavaScript
+      </td>
+      <td width="96">
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+        </a>
+        <br/>
+        Node.js
+      </td>
+      <td width="96">
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+        </a>
+        <br/>
+        Go
+      </td>
+      <td width="96">
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
+        </a>
+        <br/>
+        GitHub Actions
+      </td>
+      <td width="96">
+        <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+        </a>
+        <br/>
+        Terraform
+      </td>
+      <td width="96">
+        <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="DynamoDB" width="40" height="40"/>
+        </a>
+        <br/>
+        AWS
+      </td>
+      <td width="96">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+        </a>
+        <br/>
+        Docker
+      </td>
+      <td width="96">
+        <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+        </a>
+        <br/>
+        Kubernetes
+      </td>
+    </tr>
+    <tr>
+      <td width="96">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+        </a>
+        <br/>
+        MongoDB
+      </td>
+      <td width="96">
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+        </a>
+        <br/>
+        PostgreSQL
+      </td>
+      <td width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+        </a>
+        <br/>
+        MySQL
+      </td>
+      <td width="96">
+        <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="gRPC" width="40" height="40"/>
+        </a>
+        <br/>
+        gRPC
+      </td>
+      <td width="96">
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+        </a>
+        <br/>
+        GraphQL
+      </td>
+      <td width="96">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        </a>
+        <br/>
+        HTML
+      </td>
+      <td width="96">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        </a>
+        <br/>
+        CSS
+      </td>
+      <td width="96">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
+        </a>
+      <br/>
+        Tailwind CSS
+      </td>
+      <td width="96">
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+        </a>
+        <br/>
+        Next.js
+      </td>
+    </tr>
+    <tr>
+      <td width="96">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+        </a>
+        <br/>
+        React
+      </td>
+      <td width="96">
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        </a>
+        <br/>
+        Redux
+      </td>
+      <td width="96">
+      <a href="https://www.contentful.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/353600/contentful.svg" alt="Contentful" width="40" height="40"/>
+      </a>
+      <br/>
+        Contentful
+      </td>
+      <td width="96">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        </a>
+        <br/>
+        Git
+      </td>
+      <td width="96">
+      <a href="https://vercel.com" target="_blank" rel="noreferrer">
+        <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
+      </a>
+      <br/>
+        Vercel
+      </td>
+    </tr>
+    <tr>
+      <!-- Tools -->
+    </tr>
+  </tbody>
+</table>
 
-### Back-end
+---
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+<!-- GitHub Stats -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinLupa&theme=tokyonight" alt="Martin Lupa Streak Stats" style="height: 200px;"/>
 
-### Databases and CMS
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sql)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
-
-### DevOps and Tools
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Localstack](https://img.shields.io/badge/Localstack-3E4B89?style=flat-square&logo=localstack&logoColor=white)
-
-### Deploy and Version Control
-
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-### Testing
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-### Other Technologies
-
-![Zod](https://img.shields.io/badge/Zod-4B32C3?style=flat-square&logo=zod&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
-![Retool](https://img.shields.io/badge/Retool-0078D4?style=flat-square&logo=retool&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-0D0D0D?style=flat-square&logo=traefik&logoColor=white)
-![AKKA](https://img.shields.io/badge/AKKA-009ACD?style=flat-square&logo=akka&logoColor=white)
-![AsyncAPI](https://img.shields.io/badge/AsyncAPI-F66700?style=flat-square&logo=asyncapi&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinLupa&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Martin Lupa GitHub Stats Card" style="height: 200px;"/>
+</div>
 
 
+---
