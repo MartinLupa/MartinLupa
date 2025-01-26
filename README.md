@@ -1,5 +1,7 @@
 # Full-Stack Developer | Bicycle enthusiast! 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLupa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-martinlupa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-lupa/)](https://www.linkedin.com/in/martin-lupa/)
@@ -69,4 +71,4 @@
 ![AsyncAPI](https://img.shields.io/badge/AsyncAPI-F66700?style=flat-square&logo=asyncapi&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLupa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
